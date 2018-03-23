@@ -1,0 +1,4 @@
+TC-1: The user should be able to login into transport management system(TMS)
+TC-2: The user should be able to select the time of travel source and destination
+TC-3: The user should be able to view the booking details
+TC-4: The user should be able to logout from the application
